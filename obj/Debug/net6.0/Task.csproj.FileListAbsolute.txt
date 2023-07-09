@@ -1,0 +1,15 @@
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/bin/Debug/net6.0/Task
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/bin/Debug/net6.0/Task.deps.json
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/bin/Debug/net6.0/Task.dll
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/bin/Debug/net6.0/Task.pdb
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.dll
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.pdb
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/Task/obj/Debug/net6.0/ref/Task.dll
