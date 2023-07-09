@@ -4,7 +4,8 @@
 
 1. Создан репозиторий на GitHub https://github.com/AlexaSLP/FinalTaskByAlexa.git
 2. Нарисована блок-схема diagram.png
-![/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/diagram.png]
+Можно просмотреть по ссылке: https://app.diagrams.net
+![Вот блок-схема](/Users/semacvetkovyh/Desktop/FinalTaskByAlexa/diagram.png)
 
 3. Создана программа, которая решает задачу (текст задачи в файле Program.cs)
 
